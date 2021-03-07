@@ -4,7 +4,7 @@
     "email": "musularonald17@gmail.com",
     "location": "KAKAMEGA",
     "phone": "0741402565",
-    "avatar_url": "https://avatars",
+    "avatar_url":"",
     "github": "https://github.com/miranda956",
     "website": "https://www.linkedin.com/in/ronald-atsali-85597a183/",
     
@@ -21,7 +21,7 @@
     ],
     "experience": [
         {
-            "company": "ROJA TECH ",
+            "company": "Anex ",
             "roles": [
                 {
                     "job": "web developer ",
@@ -34,53 +34,16 @@
                         ]
                 }
             ]
-        }, 
-        {
-            "company": "SAIC",
-            "roles": [
-                {
-                    "job": "Software Engineer",
-                    "start": "January 2010",
-                    "end": "December 2016",
-                    "tasks": [
-                        "Developed an analysis and visualization tool for helicopter pilots, safety and training officers.",
-                        "Worked on a development team using the Scrum process.",
-                        "Created a web interface in Angular 2 for interacting with a rules engine.",
-                        "Refactored a tightly coupled data layer to use the repository pattern making the software more maintainable and unit testable.",
-                        "Wrote a RESTful API for an existing backend using ASP.NET Web API.",
-                        "Refactored a WinForms application into a WPF application with a a more maintainable design.",
-                        "Developed rich user interfaces using WPF, C# and the Prism framework.",
-                        "Crafted user interfaces for aircraft flight visualization and analysis tools.",
-                        "Applied the Model-View-ViewModel (MVVM) design pattern to create more maintainable applications.",
-                        "Created 3D tool for locating tracked parts on helicopters using the Microsoft's XNA game framework."
-                    ]
-                }
-            ]            
-        }, 
-        {
-            "company": "COLSA Corporation",
-            "roles": [
-                {
-                    "job": "Computer Operator (Intern)",
-                    "start": "August 2007",
-                    "end": "December 2009",
-                    "tasks": [
-                        "Hired as an intern.",
-                        "Developed dashboard software for a high altitude test-bed lab framework and payload flight computer.", 
-                        "Worked on a development team using the Scrum process.",
-                        "Analyzed software requirements.",
-                        "Developed Windows and Linux software using C#, C++, and Python.",
-                        "Maintained and upgraded user interface for monitoring the flight computer status in C# and IronPython.",
-                        "Developed web-based user interface for monitoring payload status in ASP.NET Web Forms."
-                    ]
-                }
-            ]                
-        }
+         
+        
+
+                         
+               }
     ],
     "skills": [ 
         { "name": "JavaScript", "category": "Languages", "image_url": "js.png", "proficiency_level": ".65" },
         { "name": "TypeScript", "category": "Languages", "image_url": "typescript.png", "proficiency_level": ".65" },
-        { "name": "python", "category": "Languages", "image_url": "python.png", "proficiency_level": ".6" },
+        { "name": "java", "category": "Languages", "image_url": "java.png", "proficiency_level": ".6" },
         { "name": "HTML", "category": "Languages", "image_url": "html.png", "proficiency_level": ".7" },
         { "name": "CSS", "category": "Languages", "image_url": "css.png", "proficiency_level": ".5" },
         { "name": "MySQL", "category": "Databases", "image_url": "mysql.png", "proficiency_level": ".5" },
@@ -88,19 +51,27 @@
         { "name": "MongoDB", "category": "Databases", "image_url": "mongodb.png", "proficiency_level": ".4" },
         { "name": "Vue.js", "category": "Frameworks and Libraries", "image_url": "vuejs.png", "proficiency_level": ".55" },
         { "name": "Angular", "category": "Frameworks and Libraries", "image_url": "angular.png", "proficiency_level": ".6" },
-        { "name": ".NET Framework", "category": "Frameworks and Libraries", "image_url": "netframework.png", "proficiency_level": ".79" },
+        { "name": "nodejs ", "category": "Frameworks and Libraries", "image_url": "node.png", "proficiency_level": ".79" },
+        { "name": "expressjs ", "category": "Frameworks and Libraries", "image_url": "express.jpeg", "proficiency_level": ".79" },
+        { "name": "sequelize ", "category": "Frameworks and Libraries", "image_url": "sequelize.png", "proficiency_level": ".90" },
+        { "name": "Reactjs ", "category": "Frameworks and Libraries", "image_url": "react.png", "proficiency_level": ".56" },
+
+
+
         { "name": "Git", "category": "Development Tools", "image_url": "git.png", "proficiency_level": ".7" },        
         { "name": "Visual Studio Code", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
         { "name": "Jenkins", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
+        { "name": "gitlab", "category": "Development Tools", "image_url": "gitlab.png", "proficiency_level": ".79" },
+
 
         { "name": "Visual Studio", "category": "Development Tools", "image_url": "visualstudio.png", "proficiency_level": ".79" },
-        { "name": "SketchUp", "category": "Other Software", "image_url": "sketchup.png", "proficiency_level": ".4" },        
-        { "name": "GIMP", "category": "Other Software", "image_url": "gimp.jpg", "proficiency_level": ".4" },
-        { "name": "Inkscape", "category": "Other Software", "image_url": "inkscape.png", "proficiency_level": ".3" },
         { "name": "Bitbucket", "category": "Development Tools", "image_url": "bitbucket.png", "proficiency_level": ".75" },
+        { "name": "Docker", "category": "Development Tools", "image_url": "docker.png", "proficiency_level": ".75" },
+        { "name": "jenkins", "category": "Development Tools", "image_url": "jenkins.png", "proficiency_level": ".75" },
+
+
         { "name": "Jira", "category": "Development Tools", "image_url": "jira.jpg", "proficiency_level": ".75" },
-        { "name": "Confluence", "category": "Development Tools", "image_url": "confluence.jpg", "proficiency_level": ".75" },        
-        { "name": "CircuitPython", "category": "Languages", "image_url": "circuitpython.png", "proficiency_level": ".3" }
+        { "name": "Confluence", "category": "Development Tools", "image_url": "confluence.jpg", "proficiency_level": ".75" }       
     ],
     "interests": "During free time i love competitive coding and designing software application especially in microservice architecture",
     "projects": [
@@ -108,7 +79,7 @@
             "name": "Realestate management system ",
             "start": "December 2020",
             "description": "Realestate management software in Angular 10 and nodejs backend with postgress database",
-            "source": "https://gitlab.com/block10/b10front",
+            "source": "https://live.block10.co.ke/",
             "website": "https://live.block10.co.ke/"
 
 			
@@ -117,28 +88,28 @@
 			"name": "React Lyric finder ",
             "start": "October 2019",
             "description": "song lyric finder app in ReactJs with  ",
-            "source": "",
+            "source": "https://lyricapp.netlify.app",
             "website": "https://lyricapp.netlify.app"
         },
         {
             "name": "Resume Website",
             "start": "April 2019",
             "description": "An resume/portfolio web application built with Vue.js.",
-            "source": "https://github.com/townsean/portfolio",
-            "website": "https://townsean.github.io/portfolio/"
+            "source": "",
+            "website": ""
         },
         {
             "name": "Tour guide",
             "start": "Dec 2020",
             "description": "React app that finds ideal places for holiday tour ",
-            "source": "https://github.com/miranda956/react-tour",
+            "source": "https://tour-guide-app.netlify.app",
             "website": "https://tour-guide-app.netlify.app"
         },
         {
             "name": "job search application ",
             "start": "september 2020",
-            "description": "a plat",
-            "source": "https://github.com/thecodingcouple/ludum-dare-35",
+            "description": "a platform for recruiters and job seekers ",
+            "source": "",
             "website": "http://thecodingcouple.github.io/ludum-dare-35/"
         },
         {
@@ -154,6 +125,13 @@
             "description": "web application to help university students apply for special exams and supplimentary online instead of manual way ",
             "source": "https://github.com/townsean/image-marker",
             "website": "https://www.thecodingcouple.com/watermark-images-python-pillow-pil/"
-        }
+        },
+    {
+        "name": "Simple frontend bloging web site ",
+            "start": "feb 2021",
+            "description": "simple blogging website in Reactjs ",
+            "source": "https://agitated-sammet-91463b.netlify.app",
+            "website": "https://agitated-sammet-91463b.netlify.app"
+    }
     ]
 }
