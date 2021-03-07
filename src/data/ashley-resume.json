@@ -1,0 +1,159 @@
+{
+    "firstname": "RONALD ",
+    "lastname": "ATSALI",
+    "email": "musularonald17@gmail.com",
+    "location": "KAKAMEGA",
+    "phone": "0741402565",
+    "avatar_url": "https://avatars",
+    "github": "https://github.com/miranda956",
+    "website": "https://www.linkedin.com/in/ronald-atsali-85597a183/",
+    
+    "summary": "Ronald  is a software engineer with 3+ years of programming in nodejs, vue,Angular. a developer who has passion in microservices architecture",
+    "education": [
+        {
+            "school": "Masinde Muliro university",
+            "degree": "Bachelor of Science",
+            "major": "Information technology ",
+            "minor": "Software engineering ",
+            "start": "August 2017",
+            "end": "march 2021"
+        }
+    ],
+    "experience": [
+        {
+            "company": "ROJA TECH ",
+            "roles": [
+                {
+                    "job": "web developer ",
+                    "start": "December 2020",
+                    "end": "Present",
+                    "tasks": [
+                        "Maintain and develop new features on a Vue.JS web application with a nodejs   API backend",
+                        "Wrote SQL queries for reports.",
+                        "software applications installations"
+                        ]
+                }
+            ]
+        }, 
+        {
+            "company": "SAIC",
+            "roles": [
+                {
+                    "job": "Software Engineer",
+                    "start": "January 2010",
+                    "end": "December 2016",
+                    "tasks": [
+                        "Developed an analysis and visualization tool for helicopter pilots, safety and training officers.",
+                        "Worked on a development team using the Scrum process.",
+                        "Created a web interface in Angular 2 for interacting with a rules engine.",
+                        "Refactored a tightly coupled data layer to use the repository pattern making the software more maintainable and unit testable.",
+                        "Wrote a RESTful API for an existing backend using ASP.NET Web API.",
+                        "Refactored a WinForms application into a WPF application with a a more maintainable design.",
+                        "Developed rich user interfaces using WPF, C# and the Prism framework.",
+                        "Crafted user interfaces for aircraft flight visualization and analysis tools.",
+                        "Applied the Model-View-ViewModel (MVVM) design pattern to create more maintainable applications.",
+                        "Created 3D tool for locating tracked parts on helicopters using the Microsoft's XNA game framework."
+                    ]
+                }
+            ]            
+        }, 
+        {
+            "company": "COLSA Corporation",
+            "roles": [
+                {
+                    "job": "Computer Operator (Intern)",
+                    "start": "August 2007",
+                    "end": "December 2009",
+                    "tasks": [
+                        "Hired as an intern.",
+                        "Developed dashboard software for a high altitude test-bed lab framework and payload flight computer.", 
+                        "Worked on a development team using the Scrum process.",
+                        "Analyzed software requirements.",
+                        "Developed Windows and Linux software using C#, C++, and Python.",
+                        "Maintained and upgraded user interface for monitoring the flight computer status in C# and IronPython.",
+                        "Developed web-based user interface for monitoring payload status in ASP.NET Web Forms."
+                    ]
+                }
+            ]                
+        }
+    ],
+    "skills": [ 
+        { "name": "JavaScript", "category": "Languages", "image_url": "js.png", "proficiency_level": ".65" },
+        { "name": "TypeScript", "category": "Languages", "image_url": "typescript.png", "proficiency_level": ".65" },
+        { "name": "python", "category": "Languages", "image_url": "python.png", "proficiency_level": ".6" },
+        { "name": "HTML", "category": "Languages", "image_url": "html.png", "proficiency_level": ".7" },
+        { "name": "CSS", "category": "Languages", "image_url": "css.png", "proficiency_level": ".5" },
+        { "name": "MySQL", "category": "Databases", "image_url": "mysql.png", "proficiency_level": ".5" },
+        { "name": "MSSQL", "category": "Databases", "image_url": "database.jpg", "proficiency_level": ".5" },
+        { "name": "MongoDB", "category": "Databases", "image_url": "mongodb.png", "proficiency_level": ".4" },
+        { "name": "Vue.js", "category": "Frameworks and Libraries", "image_url": "vuejs.png", "proficiency_level": ".55" },
+        { "name": "Angular", "category": "Frameworks and Libraries", "image_url": "angular.png", "proficiency_level": ".6" },
+        { "name": ".NET Framework", "category": "Frameworks and Libraries", "image_url": "netframework.png", "proficiency_level": ".79" },
+        { "name": "Git", "category": "Development Tools", "image_url": "git.png", "proficiency_level": ".7" },        
+        { "name": "Visual Studio Code", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
+        { "name": "Jenkins", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
+
+        { "name": "Visual Studio", "category": "Development Tools", "image_url": "visualstudio.png", "proficiency_level": ".79" },
+        { "name": "SketchUp", "category": "Other Software", "image_url": "sketchup.png", "proficiency_level": ".4" },        
+        { "name": "GIMP", "category": "Other Software", "image_url": "gimp.jpg", "proficiency_level": ".4" },
+        { "name": "Inkscape", "category": "Other Software", "image_url": "inkscape.png", "proficiency_level": ".3" },
+        { "name": "Bitbucket", "category": "Development Tools", "image_url": "bitbucket.png", "proficiency_level": ".75" },
+        { "name": "Jira", "category": "Development Tools", "image_url": "jira.jpg", "proficiency_level": ".75" },
+        { "name": "Confluence", "category": "Development Tools", "image_url": "confluence.jpg", "proficiency_level": ".75" },        
+        { "name": "CircuitPython", "category": "Languages", "image_url": "circuitpython.png", "proficiency_level": ".3" }
+    ],
+    "interests": "During free time i love competitive coding and designing software application especially in microservice architecture",
+    "projects": [
+		{
+            "name": "Realestate management system ",
+            "start": "December 2020",
+            "description": "Realestate management software in Angular 10 and nodejs backend with postgress database",
+            "source": "https://gitlab.com/block10/b10front",
+            "website": "https://live.block10.co.ke/"
+
+			
+        },
+		{
+			"name": "React Lyric finder ",
+            "start": "October 2019",
+            "description": "song lyric finder app in ReactJs with  ",
+            "source": "",
+            "website": "https://lyricapp.netlify.app"
+        },
+        {
+            "name": "Resume Website",
+            "start": "April 2019",
+            "description": "An resume/portfolio web application built with Vue.js.",
+            "source": "https://github.com/townsean/portfolio",
+            "website": "https://townsean.github.io/portfolio/"
+        },
+        {
+            "name": "Tour guide",
+            "start": "Dec 2020",
+            "description": "React app that finds ideal places for holiday tour ",
+            "source": "https://github.com/miranda956/react-tour",
+            "website": "https://tour-guide-app.netlify.app"
+        },
+        {
+            "name": "job search application ",
+            "start": "september 2020",
+            "description": "a plat",
+            "source": "https://github.com/thecodingcouple/ludum-dare-35",
+            "website": "http://thecodingcouple.github.io/ludum-dare-35/"
+        },
+        {
+            "name": "POINT OF SALE in microservices architecture ",
+            "start": "feb 2021",
+            "description": "point of sale software in microservices using nodejs,jenkins,vue,docker,Rest apis,",
+            "source": "",
+            "website": "http://townsean.github.io/bingo-card-generator/"
+        },
+        {
+            "name": "University special and supplimentary application app ",
+            "start": "feb 2021",
+            "description": "web application to help university students apply for special exams and supplimentary online instead of manual way ",
+            "source": "https://github.com/townsean/image-marker",
+            "website": "https://www.thecodingcouple.com/watermark-images-python-pillow-pil/"
+        }
+    ]
+}
