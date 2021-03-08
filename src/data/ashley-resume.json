@@ -60,7 +60,6 @@
 
         { "name": "Git", "category": "Development Tools", "image_url": "git.png", "proficiency_level": ".7" },        
         { "name": "Visual Studio Code", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
-        { "name": "Jenkins", "category": "Development Tools", "image_url": "vscode.png", "proficiency_level": ".79" },
         { "name": "gitlab", "category": "Development Tools", "image_url": "gitlab.png", "proficiency_level": ".79" },
 
 
@@ -109,22 +108,22 @@
             "name": "job search application ",
             "start": "september 2020",
             "description": "a platform for recruiters and job seekers ",
-            "source": "",
-            "website": "http://thecodingcouple.github.io/ludum-dare-35/"
+            "source": "https://github.com/miranda956/node-jobsearch-app",
+            "website": "https://github.com/miranda956/node-jobsearch-app"
         },
         {
             "name": "POINT OF SALE in microservices architecture ",
             "start": "feb 2021",
             "description": "point of sale software in microservices using nodejs,jenkins,vue,docker,Rest apis,",
-            "source": "",
-            "website": "http://townsean.github.io/bingo-card-generator/"
+            "source": "https://github.com/miranda956/point-of-sale-microservices",
+            "website": "https://github.com/miranda956/point-of-sale-microservices"
         },
         {
             "name": "University special and supplimentary application app ",
             "start": "feb 2021",
             "description": "web application to help university students apply for special exams and supplimentary online instead of manual way ",
-            "source": "https://github.com/townsean/image-marker",
-            "website": "https://www.thecodingcouple.com/watermark-images-python-pillow-pil/"
+            "source": "https://github.com/miranda956/course-regestration-",
+            "website": "https://github.com/miranda956/course-regestration-"
         },
     {
         "name": "Simple frontend bloging web site ",

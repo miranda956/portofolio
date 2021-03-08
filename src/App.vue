@@ -1,18 +1,19 @@
 <template>
   <div id="app">
     <header>
-      <nav class="small-navbar">        
+      <nav class="small-navbar">
          <p>Hi, I'm {{ data.firstname }}.</p>
       </nav>
       <nav class="fullsize-navbar">
-        <div class="avatar">        
-          <img v-bind:src="data.avatar_url" alt="Profile picture" />
+        <div class="avatar">
+          <img src="../public/assets/ronal.jpg"/>
+
         </div>
         <ul>
           <!-- About -->
           <li class="nav-item">
             <a href="#about" v-scroll-to="{el: '#about', container: '#resume'}">About</a>
-          </li>          
+          </li>
           <!-- Experience -->
           <li class="nav-item">
             <a href="#experience" v-scroll-to="{el: '#experience', container: '#resume'}">Experience</a>
@@ -28,7 +29,7 @@
           <!-- Projects -->
           <li class="nav-item">
             <a href="#projects" v-scroll-to="{el: '#projects', container: '#resume'}">Projects</a>
-          </li>          
+          </li>
           <!-- Interests -->
           <li class="nav-item">
             <a href="#interests" v-scroll-to="{el: '#interests', container: '#resume'}">Interests</a>
@@ -75,12 +76,12 @@ export default {
   methods: {
     /**
      * An Easter Egg:
-     *   Toggle between 2 different resume.json files with CTRL + mouse click. 
-     *   Not an elegant thing, (should implement this feature as a route) 
-     *   but I wanted to quickly demostrate that none of the data is hardcorded. 
+     *   Toggle between 2 different resume.json files with CTRL + mouse click.
+     *   Not an elegant thing, (should implement this feature as a route)
+     *   but I wanted to quickly demostrate that none of the data is hardcorded.
      */
     toggleData: function(event) {
-      if(this.data == ashley) {        
+      if(this.data == ashley) {
         this.data = michael;
       } else {
         this.data = ashley;
@@ -113,8 +114,8 @@ export default {
     background-attachment: fixed;
     margin: 0;
     font-family: 'Lato', sans-serif;
-    overflow: hidden; 
-  } 
+    overflow: hidden;
+  }
 
   header {
     display: flex;
@@ -148,7 +149,7 @@ export default {
 
   nav li a:hover {
     color: var(--main-color-white);
-  }  
+  }
 
   img {
     margin: 0 auto;
@@ -160,7 +161,7 @@ export default {
     font-family: 'Roboto', sans-serif;
   }
 
-  h1, h2, h3 {    
+  h1, h2, h3 {
     text-transform: uppercase;
   }
 
@@ -190,15 +191,15 @@ export default {
   .date-range {
     color: var(--main-color);
   }
-  
+
   .fullsize-navbar  {
     padding-top: 35px;
     min-width: 275px;
-    z-index: 1;      
+    z-index: 1;
     box-shadow: 2px 0 10px gray;
   }
 
-  .small-navbar {    
+  .small-navbar {
     display: none;
     margin: 0;
     padding-left: 30px;
@@ -237,7 +238,7 @@ export default {
     nav {
       margin-top: 5px;
     }
-    
+
     .fullsize-navbar {
       display: none;
       box-shadow: none;
@@ -246,10 +247,10 @@ export default {
     .small-navbar {
       display: inline-block;
       width: 100%;
-      z-index: 1;      
+      z-index: 1;
       box-shadow: 0 2px 10px gray;
     }
-    
+
     #app {
       flex-direction: column;
     }
@@ -259,7 +260,7 @@ export default {
     }
   }
 
-  @media print {    
+  @media print {
     header, nav, footer {
       display: none;
     }
