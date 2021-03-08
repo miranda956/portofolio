@@ -8,7 +8,7 @@
     "github": "https://github.com/miranda956",
     "website": "https://www.linkedin.com/in/ronald-atsali-85597a183/",
     
-    "summary": "Ronald  is a software engineer with 3+ years of programming in nodejs, vue,Angular. a developer who has passion in microservices architecture",
+    "summary": "Ronald  is a software engineer with 3+ years of programming in nodejs, vue,Angular and React. a developer who has passion in microservices architecture",
     "education": [
         {
             "school": "Masinde Muliro university",
@@ -72,7 +72,7 @@
         { "name": "Jira", "category": "Development Tools", "image_url": "jira.jpg", "proficiency_level": ".75" },
         { "name": "Confluence", "category": "Development Tools", "image_url": "confluence.jpg", "proficiency_level": ".75" }       
     ],
-    "interests": "During free time i love competitive coding and designing software application especially in microservice architecture",
+    "interests": "During free time i love competitive coding ,designing software application especially in microservice architecture ,teaching friends how to write code and  also reading blogs about designing scale software systems",
     "projects": [
 		{
             "name": "Realestate management system ",
